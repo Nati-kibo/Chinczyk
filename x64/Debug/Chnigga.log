@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\natis\source\repos\Nauka\Chnigga\main.cpp(16,26): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  plansza.cpp
+  zawodnik.cpp
+  Generowanie kodu...
+  Chnigga.vcxproj -> C:\Users\natis\source\repos\Nauka\Zadanka\x64\Debug\Chnigga.exe
